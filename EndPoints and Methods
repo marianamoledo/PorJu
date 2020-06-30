@@ -1,0 +1,23 @@
+## EndPoints and Methods
+
+/Products - GET
+/WhoAmI - GET
+
+/Register - GET
+/Register - POST
+
+/Search - GET
+/Search - POST
+
+/Login - GET
+/Login - POST
+
+/AddCart - POST
+/Cart - GET
+/Payment - GET
+/Payment - POST
+/Buy - POST
+/MyOrders - GET
+
+/Logout - POST
+
